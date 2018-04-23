@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "141512651870",
+    "firebase_url": "https://aasffarewell.firebaseio.com",
+    "project_id": "aasffarewell",
+    "storage_bucket": "aasffarewell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141512651870:android:26cf34aa86507a8b",
+        "android_client_info": {
+          "package_name": "com.example.slytherin.aasffarewell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141512651870-ua6gt4nmtq8civ5u6vo5fm0gl8b5gbcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTTgyDDkSPi2xuvtaG_f8z1iC1tKxF1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
